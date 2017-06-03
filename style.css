@@ -1,0 +1,140 @@
+
+
+/**body {*/
+	/*text-align: center;*/
+	/*background-color: rgba(0,0,0,.2);*/
+/*}
+
+h1 {
+	color: rgba(170,67,232,1);
+	font-size: 350%;
+}
+
+.links {
+	text-decoration: none;
+	padding: 50px;
+	margin: 75px;
+	font-size: 250%;
+}
+
+h2 {
+	font-size: 250%;
+	color: rgba(159,16,232,.7);
+}
+
+.paragraph {
+	margin-bottom: 20px;
+	color: rgba(62,78,209,1);
+	font-size: 150%;
+	font-style: italic;
+	padding: 20px;
+	font-family: "Courier New", sans-serif;
+	font-weight: 600;
+}
+
+.paragraph, .links{
+	background-color: rgba(150,145,232,.6);*/
+/*}*/
+header {
+	background-color: #F15B31;
+	padding: 30px 20px;
+	text-align: center;
+}
+
+body {
+	margin: 0;
+}
+h1 {
+	font-family: "Raleway", sans-serif;
+	color: #0D2C40;
+	letter-spacing: 1px;
+	font-weight: 400;
+	font-size: 45px;
+	margin: 0;
+	color: white;
+	text-transform: uppercase;
+}
+
+nav {
+	background-color: #00A6B3;
+	padding: 20px 0;
+	text-align: center;
+}
+a {
+	font-family: "Raleway", sans-serif;
+	color: #F15B31;
+	letter-spacing: 1px;
+	font-weight: 600;
+	font-size: 18px;
+	padding: 0 20px 0 20px;
+	text-decoration: none;
+}
+
+nav a {
+	color: white;
+	text-transform: uppercase;
+}
+
+nav a:hover {
+	border-bottom: 2px solid transparent;
+}
+
+a:hover {
+	border-color: white;
+}
+
+main {
+	width: 850px;
+	margin: 35px auto;
+}
+h2 {
+	font-family: "Raleway", sans-serif;
+	color: #0D2C40;
+	letter-spacing: 1px;
+	font-weight: 600;
+	font-size: 20px;
+}
+
+p {
+	font-family: "Droid serif", serif;
+	line line-height: 26px;
+	font-size: 18px;
+}
+
+img {
+	margin: 40px 8px;
+}
+
+footer {
+	text-transform: uppercase;
+	padding: 0 20px;
+	background-color: #0D2C40;
+	color: white;
+	font-size: 14px;
+	letter-spacing: .08;
+	font-weight: 500;
+}
+
+.copyright {
+	font-family: "Raleway";
+	float: left;
+}
+
+.message {
+	font-family: "Raleway";
+	float: right;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    content: " ";
+    clear: both;
+    height: 0;
+    font-size: 0;
+}
+
+.name {
+	color: #F15B31;
+	font-weight: 700;
+}
